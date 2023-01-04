@@ -73,7 +73,7 @@ select{
     -webkit-appearance: none;
     appearance: none;
 
-    background-image: url(../imagens/arrow.jpg);
+    background-image: url(https://github.com/felipeHELPNET/paginaDeCaptura.01/blob/main/arrow.jpg);
     background-repeat: no-repeat;
     background-position: calc(100% - 10px) center;
 }
