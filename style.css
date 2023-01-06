@@ -28,7 +28,7 @@ header{
 
 section{
     padding: 200px;
-    background-image: url('../imagens/people.jpg');
+    background-image: url('people.jpg');
     background-size: cover;
     overflow: hidden;
 }
@@ -73,7 +73,7 @@ select{
     -webkit-appearance: none;
     appearance: none;
 
-    background-image: url(https://github.com/felipeHELPNET/paginaDeCaptura.01/blob/main/arrow.jpg);
+    background-image: url(arrow.jpg);
     background-repeat: no-repeat;
     background-position: calc(100% - 10px) center;
 }
